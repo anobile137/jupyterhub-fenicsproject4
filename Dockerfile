@@ -1,6 +1,6 @@
 # Public Domain
 # github project: jupyterhub-fenicsproject with necessary packages
-# install mshr, scipy, matplotlib and bokeh for use in fenics environment
+# install mshr, scipy, matplotlib and bokeh (for interactive graphics) for use in fenics environment
 # version: 0.1
 FROM jupyter/minimal-notebook
 
